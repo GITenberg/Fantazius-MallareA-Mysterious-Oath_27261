@@ -1,0 +1,35 @@
+_repo: Fantazius-MallareA-Mysterious-Oath_27261
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Wallace
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '32579'
+    url: http://www.gutenberg.org/2009/agents/32579
+covers:
+- cover_type: archival
+  image_path: 27261-h/images/coverdetaila.jpg
+creator:
+  author:
+    agent_name: Hecht, Ben
+    birthdate: 1894
+    deathdate: 1964
+    gutenberg_agent_id: '2616'
+    url: http://www.gutenberg.org/2009/agents/2616
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Hecht
+description: ''
+gutenberg_issued: '2008-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27261'
+  lccn: '22019092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Gothic fiction (Literary genre)'
+title: 'Fantazius Mallare: A Mysterious Oath'
+url: http://www.gutenberg.org/ebooks/27261
